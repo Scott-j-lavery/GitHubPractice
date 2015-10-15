@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Freestyle</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="poopstring">poopstring</string>
+
+    <string-array name="bodybuilders">
+        <item>Arnold Schwarzennegar</item>
+        <item>Lou Ferrigno</item>
+        <item>Kai Greene</item>
+        <item>Jay Cutler</item>
+        <item>Phil Heath</item>
+        <item>Sergio Oliva</item>
+    </string-array>
+</resources>
